@@ -1,0 +1,108 @@
+{
+
+"levels":[
+
+{
+"id": 1,
+
+"laserInterval": 3,
+
+"coinInterval":3,
+
+"laserVelocity":5,
+
+"coinVelocity":10,
+
+"bossEnabled":false,
+
+"distanceNeeded":3,
+
+"stars":0,
+
+"oneStarThreshold":200,
+
+"twoStarThreshold" : 300,
+
+"threeStarThreshold" : 400,
+
+"skySpeed" :2,
+
+"treeSpeed" : 5,
+
+"floorSpeed": 10,
+
+"isLocked": false
+
+},
+
+{
+"id": 2,
+
+"laserInterval": 2,
+
+"coinInterval":3,
+
+"laserVelocity":7,
+
+"coinVelocity":13,
+
+"bossEnabled":false,
+
+"distanceNeeded":6,
+
+"stars":0,
+
+"oneStarThreshold":200,
+
+"twoStarThreshold" : 300,
+
+"threeStarThreshold" : 400,
+
+"skySpeed" :4,
+
+"treeSpeed" : 8,
+
+"floorSpeed": 14,
+
+"isLocked": false
+
+},
+
+{
+"id": 3,
+
+"laserInterval": 1,
+
+"coinInterval":3,
+
+"laserVelocity":7,
+
+"coinVelocity":13,
+
+"bossEnabled":true,
+
+"distanceNeeded":12,
+
+"stars":0,
+
+"oneStarThreshold":200,
+
+"twoStarThreshold" : 300,
+
+"threeStarThreshold" : 400,
+
+"skySpeed" :4,
+
+"treeSpeed" : 8,
+
+"floorSpeed": 14,
+
+"isLocked": false
+
+
+}
+
+
+]
+
+}
